@@ -41,3 +41,4 @@ db.close()
 
 def fun():
     print("123起")
+    print('你好')
