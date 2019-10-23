@@ -18,3 +18,5 @@ for item in itertools.permutations(list01, len(list01)):
             break
     else:
         print(item)
+
+print("-----》》》》》》》---->>>>>>>>>>>>>>>>>")
